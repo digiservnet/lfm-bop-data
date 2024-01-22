@@ -278,7 +278,7 @@
         {
             "track": "spa",
             "carModel": 31,
-            "ballastKg": 15
+            "ballastKg": 19
         },
         {
             "track": "spa",
@@ -298,7 +298,7 @@
         {
             "track": "spa",
             "carModel": 32,
-            "ballastKg": 14
+            "ballastKg": 17
         },
         {
             "track": "spa",
@@ -908,7 +908,7 @@
         {
             "track": "oulton_park",
             "carModel": 31,
-            "ballastKg": 11
+            "ballastKg": 10
         },
         {
             "track": "oulton_park",
@@ -928,17 +928,17 @@
         {
             "track": "oulton_park",
             "carModel": 32,
-            "ballastKg": -13
+            "ballastKg": -14
         },
         {
             "track": "oulton_park",
             "carModel": 21,
-            "ballastKg": 10
+            "ballastKg": 9
         },
         {
             "track": "oulton_park",
             "carModel": 33,
-            "ballastKg": 29
+            "ballastKg": 28
         },
         {
             "track": "oulton_park",
@@ -948,17 +948,17 @@
         {
             "track": "oulton_park",
             "carModel": 25,
-            "ballastKg": 0
+            "ballastKg": 4
         },
         {
             "track": "oulton_park",
             "carModel": 34,
-            "ballastKg": -4
+            "ballastKg": -5
         },
         {
             "track": "oulton_park",
             "carModel": 22,
-            "ballastKg": 7
+            "ballastKg": 6
         },
         {
             "track": "oulton_park",
@@ -1558,7 +1558,7 @@
         {
             "track": "spa",
             "carModel": 50,
-            "ballastKg": 34
+            "ballastKg": 33
         },
         {
             "track": "spa",
@@ -1573,7 +1573,7 @@
         {
             "track": "spa",
             "carModel": 53,
-            "ballastKg": -14
+            "ballastKg": -15
         },
         {
             "track": "spa",
@@ -1593,7 +1593,7 @@
         {
             "track": "spa",
             "carModel": 59,
-            "ballastKg": 19
+            "ballastKg": 20
         },
         {
             "track": "spa",
@@ -1608,7 +1608,7 @@
         {
             "track": "spa",
             "carModel": 58,
-            "ballastKg": 16
+            "ballastKg": 15
         },
         {
             "track": "cota",
