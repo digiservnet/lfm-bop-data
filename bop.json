@@ -852,53 +852,53 @@
         },
         {
             "track": "nurburgring",
+            "carModel": 33,
+            "ballastKg": 34
+        },
+        {
+            "track": "nurburgring",
+            "carModel": 26,
+            "ballastKg": 14
+        },
+        {
+            "track": "nurburgring",
+            "carModel": 25,
+            "ballastKg": 10
+        },
+        {
+            "track": "nurburgring",
+            "carModel": 34,
+            "ballastKg": 9
+        },
+        {
+            "track": "nurburgring",
+            "carModel": 32,
+            "ballastKg": 7
+        },
+        {
+            "track": "nurburgring",
             "carModel": 31,
-            "ballastKg": 20
+            "ballastKg": -1
+        },
+        {
+            "track": "nurburgring",
+            "carModel": 35,
+            "ballastKg": -1
+        },
+        {
+            "track": "nurburgring",
+            "carModel": 20,
+            "ballastKg": -9
+        },
+        {
+            "track": "nurburgring",
+            "carModel": 21,
+            "ballastKg": -16
         },
         {
             "track": "nurburgring",
             "carModel": 8,
             "ballastKg": -40
-        },
-        {
-            "track": "nurburgring",
-            "carModel": 20,
-            "ballastKg": -27
-        },
-        {
-            "track": "nurburgring",
-            "carModel": 26,
-            "ballastKg": 20
-        },
-        {
-            "track": "nurburgring",
-            "carModel": 32,
-            "ballastKg": 15
-        },
-        {
-            "track": "nurburgring",
-            "carModel": 21,
-            "ballastKg": -10
-        },
-        {
-            "track": "nurburgring",
-            "carModel": 33,
-            "ballastKg": 25
-        },
-        {
-            "track": "nurburgring",
-            "carModel": 35,
-            "ballastKg": 7
-        },
-        {
-            "track": "nurburgring",
-            "carModel": 25,
-            "ballastKg": 1
-        },
-        {
-            "track": "nurburgring",
-            "carModel": 34,
-            "ballastKg": 6
         },
         {
             "track": "nurburgring",
