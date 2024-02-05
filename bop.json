@@ -238,67 +238,67 @@
         {
             "track": "paul_ricard",
             "carModel": 31,
-            "ballastKg": -3
+            "ballastKg": -11
         },
         {
             "track": "paul_ricard",
             "carModel": 8,
-            "ballastKg": -17
+            "ballastKg": -25
         },
         {
             "track": "paul_ricard",
             "carModel": 20,
-            "ballastKg": 11
-        },
-        {
-            "track": "paul_ricard",
-            "carModel": 26,
-            "ballastKg": 12
-        },
-        {
-            "track": "paul_ricard",
-            "carModel": 32,
-            "ballastKg": 14
-        },
-        {
-            "track": "paul_ricard",
-            "carModel": 21,
-            "ballastKg": -29
-        },
-        {
-            "track": "paul_ricard",
-            "carModel": 33,
-            "ballastKg": -5
-        },
-        {
-            "track": "paul_ricard",
-            "carModel": 35,
-            "ballastKg": 16
-        },
-        {
-            "track": "paul_ricard",
-            "carModel": 25,
-            "ballastKg": 23
-        },
-        {
-            "track": "paul_ricard",
-            "carModel": 34,
-            "ballastKg": -21
-        },
-        {
-            "track": "paul_ricard",
-            "carModel": 22,
-            "ballastKg": 18
-        },
-        {
-            "track": "paul_ricard",
-            "carModel": 6,
             "ballastKg": 3
         },
         {
             "track": "paul_ricard",
+            "carModel": 26,
+            "ballastKg": 3
+        },
+        {
+            "track": "paul_ricard",
+            "carModel": 32,
+            "ballastKg": 6
+        },
+        {
+            "track": "paul_ricard",
+            "carModel": 21,
+            "ballastKg": -22
+        },
+        {
+            "track": "paul_ricard",
+            "carModel": 33,
+            "ballastKg": 18
+        },
+        {
+            "track": "paul_ricard",
+            "carModel": 35,
+            "ballastKg": 21
+        },
+        {
+            "track": "paul_ricard",
+            "carModel": 25,
+            "ballastKg": 18
+        },
+        {
+            "track": "paul_ricard",
+            "carModel": 34,
+            "ballastKg": -12
+        },
+        {
+            "track": "paul_ricard",
+            "carModel": 6,
+            "ballastKg": 10
+        },
+        {
+            "track": "paul_ricard",
+            "carModel": 22,
+            "ballastKg": 9
+        },
+        {
+            "track": "paul_ricard",
             "carModel": 24,
-            "ballastKg": -15
+            "ballastKg": -23
         },
         {
             "track": "spa",
@@ -418,57 +418,57 @@
         {
             "track": "valencia",
             "carModel": 31,
-            "ballastKg": 14
+            "ballastKg": 13
         },
         {
             "track": "valencia",
             "carModel": 8,
-            "ballastKg": -14
-        },
-        {
-            "track": "valencia",
-            "carModel": 20,
-            "ballastKg": -17
-        },
-        {
-            "track": "valencia",
-            "carModel": 26,
             "ballastKg": -7
         },
         {
             "track": "valencia",
+            "carModel": 20,
+            "ballastKg": -14
+        },
+        {
+            "track": "valencia",
+            "carModel": 26,
+            "ballastKg": 7
+        },
+        {
+            "track": "valencia",
             "carModel": 32,
-            "ballastKg": 11
+            "ballastKg": 8
         },
         {
             "track": "valencia",
             "carModel": 21,
-            "ballastKg": -13
+            "ballastKg": -26
         },
         {
             "track": "valencia",
             "carModel": 33,
-            "ballastKg": 19
+            "ballastKg": 12
         },
         {
             "track": "valencia",
             "carModel": 35,
-            "ballastKg": 9
+            "ballastKg": 10
         },
         {
             "track": "valencia",
             "carModel": 25,
-            "ballastKg": -3
+            "ballastKg": 0
         },
         {
             "track": "valencia",
             "carModel": 34,
-            "ballastKg": 1
+            "ballastKg": -4
         },
         {
             "track": "valencia",
             "carModel": 24,
-            "ballastKg": -26
+            "ballastKg": -28
         },
         {
             "track": "donington",
@@ -868,47 +868,47 @@
         {
             "track": "nurburgring",
             "carModel": 8,
-            "ballastKg": -40
+            "ballastKg": -26
         },
         {
             "track": "nurburgring",
             "carModel": 20,
-            "ballastKg": -4
+            "ballastKg": -12
         },
         {
             "track": "nurburgring",
             "carModel": 26,
-            "ballastKg": 18
+            "ballastKg": 13
         },
         {
             "track": "nurburgring",
             "carModel": 32,
-            "ballastKg": 17
+            "ballastKg": 9
         },
         {
             "track": "nurburgring",
             "carModel": 21,
-            "ballastKg": -11
+            "ballastKg": -17
         },
         {
             "track": "nurburgring",
             "carModel": 33,
-            "ballastKg": -13
+            "ballastKg": 19
         },
         {
             "track": "nurburgring",
             "carModel": 35,
-            "ballastKg": 4
+            "ballastKg": -4
         },
         {
             "track": "nurburgring",
             "carModel": 25,
-            "ballastKg": 14
+            "ballastKg": 7
         },
         {
             "track": "nurburgring",
             "carModel": 34,
-            "ballastKg": 14
+            "ballastKg": 6
         },
         {
             "track": "nurburgring",
@@ -1073,7 +1073,7 @@
         {
             "track": "red_bull_ring",
             "carModel": 31,
-            "ballastKg": 19
+            "ballastKg": 18
         },
         {
             "track": "red_bull_ring",
@@ -1088,7 +1088,7 @@
         {
             "track": "red_bull_ring",
             "carModel": 26,
-            "ballastKg": 18
+            "ballastKg": 19
         },
         {
             "track": "red_bull_ring",
@@ -1188,7 +1188,7 @@
         {
             "track": "watkins_glen",
             "carModel": 31,
-            "ballastKg": 28
+            "ballastKg": 18
         },
         {
             "track": "watkins_glen",
@@ -1198,52 +1198,57 @@
         {
             "track": "watkins_glen",
             "carModel": 20,
-            "ballastKg": 5
+            "ballastKg": 24
         },
         {
             "track": "watkins_glen",
             "carModel": 26,
-            "ballastKg": 3
+            "ballastKg": 1
         },
         {
             "track": "watkins_glen",
             "carModel": 32,
-            "ballastKg": 4
+            "ballastKg": 3
         },
         {
             "track": "watkins_glen",
             "carModel": 21,
-            "ballastKg": -16
+            "ballastKg": -27
         },
         {
             "track": "watkins_glen",
             "carModel": 33,
-            "ballastKg": 22
+            "ballastKg": 13
         },
         {
             "track": "watkins_glen",
             "carModel": 35,
-            "ballastKg": 8
+            "ballastKg": 9
         },
         {
             "track": "watkins_glen",
             "carModel": 25,
-            "ballastKg": 8
+            "ballastKg": 7
         },
         {
             "track": "watkins_glen",
             "carModel": 34,
-            "ballastKg": -4
+            "ballastKg": 11
+        },
+        {
+            "track": "watkins_glen",
+            "carModel": 6,
+            "ballastKg": 12
         },
         {
             "track": "watkins_glen",
             "carModel": 22,
-            "ballastKg": 10
+            "ballastKg": 9
         },
         {
             "track": "watkins_glen",
             "carModel": 24,
-            "ballastKg": -20
+            "ballastKg": -7
         },
         {
             "track": "zandvoort",
