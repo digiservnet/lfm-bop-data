@@ -1,6 +1,121 @@
 {
     "entries": [
         {
+            "track": "imola",
+            "carModel": 31,
+            "ballastKg": 22
+        },
+        {
+            "track": "imola",
+            "carModel": 8,
+            "ballastKg": -39
+        },
+        {
+            "track": "imola",
+            "carModel": 20,
+            "ballastKg": 2
+        },
+        {
+            "track": "imola",
+            "carModel": 26,
+            "ballastKg": 13
+        },
+        {
+            "track": "imola",
+            "carModel": 32,
+            "ballastKg": 7
+        },
+        {
+            "track": "imola",
+            "carModel": 21,
+            "ballastKg": -40
+        },
+        {
+            "track": "imola",
+            "carModel": 33,
+            "ballastKg": 2
+        },
+        {
+            "track": "imola",
+            "carModel": 35,
+            "ballastKg": 26
+        },
+        {
+            "track": "imola",
+            "carModel": 25,
+            "ballastKg": 19
+        },
+        {
+            "track": "imola",
+            "carModel": 34,
+            "ballastKg": 22
+        },
+        {
+            "track": "imola",
+            "carModel": 6,
+            "ballastKg": 7
+        },
+        {
+            "track": "imola",
+            "carModel": 24,
+            "ballastKg": -40
+        },
+        {
+            "track": "barcelona",
+            "carModel": 31,
+            "ballastKg": 10
+        },
+        {
+            "track": "barcelona",
+            "carModel": 8,
+            "ballastKg": -26
+        },
+        {
+            "track": "barcelona",
+            "carModel": 20,
+            "ballastKg": -7
+        },
+        {
+            "track": "barcelona",
+            "carModel": 26,
+            "ballastKg": 2
+        },
+        {
+            "track": "barcelona",
+            "carModel": 32,
+            "ballastKg": 24
+        },
+        {
+            "track": "barcelona",
+            "carModel": 21,
+            "ballastKg": -7
+        },
+        {
+            "track": "barcelona",
+            "carModel": 33,
+            "ballastKg": 18
+        },
+        {
+            "track": "barcelona",
+            "carModel": 35,
+            "ballastKg": 0
+        },
+        {
+            "track": "barcelona",
+            "carModel": 25,
+            "ballastKg": -10
+        },
+        {
+            "track": "barcelona",
+            "carModel": 34,
+            "ballastKg": -4
+        },
+        {
+            "track": "barcelona",
+            "carModel": 24,
+            "ballastKg": -24
+        },
+        {
             "track": "paul_ricard",
             "carModel": 31,
             "ballastKg": -11
@@ -13,7 +128,7 @@
         {
             "track": "paul_ricard",
             "carModel": 20,
-            "ballastKg": 3
+            "ballastKg": 4
         },
         {
             "track": "paul_ricard",
@@ -131,6 +246,61 @@
             "ballastKg": -25
         },
         {
+            "track": "cota",
+            "carModel": 31,
+            "ballastKg": -18
+        },
+        {
+            "track": "cota",
+            "carModel": 8,
+            "ballastKg": -36
+        },
+        {
+            "track": "cota",
+            "carModel": 20,
+            "ballastKg": 10
+        },
+        {
+            "track": "cota",
+            "carModel": 26,
+            "ballastKg": 17
+        },
+        {
+            "track": "cota",
+            "carModel": 32,
+            "ballastKg": 15
+        },
+        {
+            "track": "cota",
+            "carModel": 21,
+            "ballastKg": -11
+        },
+        {
+            "track": "cota",
+            "carModel": 33,
+            "ballastKg": -25
+        },
+        {
+            "track": "cota",
+            "carModel": 35,
+            "ballastKg": 20
+        },
+        {
+            "track": "cota",
+            "carModel": 25,
+            "ballastKg": 22
+        },
+        {
+            "track": "cota",
+            "carModel": 34,
+            "ballastKg": 7
+        },
+        {
+            "track": "cota",
+            "carModel": 24,
+            "ballastKg": -17
+        },
+        {
             "track": "valencia",
             "carModel": 31,
             "ballastKg": 14
@@ -188,27 +358,27 @@
         {
             "track": "kyalami",
             "carModel": 31,
-            "ballastKg": 8
+            "ballastKg": 7
         },
         {
             "track": "kyalami",
             "carModel": 8,
-            "ballastKg": -14
+            "ballastKg": -15
         },
         {
             "track": "kyalami",
             "carModel": 20,
-            "ballastKg": 13
+            "ballastKg": 19
         },
         {
             "track": "kyalami",
             "carModel": 26,
-            "ballastKg": 10
+            "ballastKg": 9
         },
         {
             "track": "kyalami",
             "carModel": 32,
-            "ballastKg": -9
+            "ballastKg": -10
         },
         {
             "track": "kyalami",
@@ -233,7 +403,7 @@
         {
             "track": "kyalami",
             "carModel": 34,
-            "ballastKg": 5
+            "ballastKg": 4
         },
         {
             "track": "kyalami",
@@ -243,7 +413,7 @@
         {
             "track": "mount_panorama",
             "carModel": 31,
-            "ballastKg": 18
+            "ballastKg": 20
         },
         {
             "track": "mount_panorama",
@@ -283,7 +453,7 @@
         {
             "track": "mount_panorama",
             "carModel": 25,
-            "ballastKg": -5
+            "ballastKg": -6
         },
         {
             "track": "mount_panorama",
@@ -481,6 +651,106 @@
             "ballastKg": -12
         },
         {
+            "track": "imola",
+            "carModel": 50,
+            "ballastKg": 36
+        },
+        {
+            "track": "imola",
+            "carModel": 51,
+            "ballastKg": -14
+        },
+        {
+            "track": "imola",
+            "carModel": 52,
+            "ballastKg": 23
+        },
+        {
+            "track": "imola",
+            "carModel": 53,
+            "ballastKg": -12
+        },
+        {
+            "track": "imola",
+            "carModel": 55,
+            "ballastKg": -27
+        },
+        {
+            "track": "imola",
+            "carModel": 56,
+            "ballastKg": -5
+        },
+        {
+            "track": "imola",
+            "carModel": 57,
+            "ballastKg": -18
+        },
+        {
+            "track": "imola",
+            "carModel": 59,
+            "ballastKg": 23
+        },
+        {
+            "track": "imola",
+            "carModel": 60,
+            "ballastKg": -9
+        },
+        {
+            "track": "imola",
+            "carModel": 61,
+            "ballastKg": 4
+        },
+        {
+            "track": "barcelona",
+            "carModel": 50,
+            "ballastKg": 40
+        },
+        {
+            "track": "barcelona",
+            "carModel": 51,
+            "ballastKg": -22
+        },
+        {
+            "track": "barcelona",
+            "carModel": 52,
+            "ballastKg": -9
+        },
+        {
+            "track": "barcelona",
+            "carModel": 53,
+            "ballastKg": -35
+        },
+        {
+            "track": "barcelona",
+            "carModel": 55,
+            "ballastKg": -17
+        },
+        {
+            "track": "barcelona",
+            "carModel": 56,
+            "ballastKg": 0
+        },
+        {
+            "track": "barcelona",
+            "carModel": 57,
+            "ballastKg": -9
+        },
+        {
+            "track": "barcelona",
+            "carModel": 59,
+            "ballastKg": 9
+        },
+        {
+            "track": "barcelona",
+            "carModel": 60,
+            "ballastKg": 14
+        },
+        {
+            "track": "barcelona",
+            "carModel": 61,
+            "ballastKg": 18
+        },
+        {
             "track": "paul_ricard",
             "carModel": 50,
             "ballastKg": 26
@@ -589,6 +859,56 @@
             "track": "spa",
             "carModel": 58,
             "ballastKg": 15
+        },
+        {
+            "track": "cota",
+            "carModel": 50,
+            "ballastKg": 40
+        },
+        {
+            "track": "cota",
+            "carModel": 51,
+            "ballastKg": -15
+        },
+        {
+            "track": "cota",
+            "carModel": 52,
+            "ballastKg": -11
+        },
+        {
+            "track": "cota",
+            "carModel": 53,
+            "ballastKg": -37
+        },
+        {
+            "track": "cota",
+            "carModel": 55,
+            "ballastKg": -40
+        },
+        {
+            "track": "cota",
+            "carModel": 56,
+            "ballastKg": -11
+        },
+        {
+            "track": "cota",
+            "carModel": 57,
+            "ballastKg": -11
+        },
+        {
+            "track": "cota",
+            "carModel": 59,
+            "ballastKg": -22
+        },
+        {
+            "track": "cota",
+            "carModel": 60,
+            "ballastKg": -19
+        },
+        {
+            "track": "cota",
+            "carModel": 61,
+            "ballastKg": 18
         },
         {
             "track": "valencia",
